@@ -1,1 +1,2 @@
-# A Simple News App using Next.js , Bootstrap and NewsAPI
+# A Simple News App 
+using Next.js , Bootstrap and NewsAPI
